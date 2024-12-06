@@ -1,0 +1,49 @@
+[
+    {
+      "apiUrl": "http://172.31.0.179:5000/check_disk",
+      "ip": "172.31.0.245",
+      "username": "testusr",
+      "password": "google123"
+    },
+    {
+      "apiUrl": "http://172.31.0.179:5000/check_disk",
+      "ip": "172.31.0.179",
+      "username": "testusr",
+      "password": "google123"
+    },
+    {
+        "apiUrl": "http://172.31.0.179:5000/check_disk",
+        "ip": "172.31.0.31",
+        "username": "elm",
+        "password": "google123"
+      },
+ 
+      {
+        "apiUrl": "http://172.31.0.179:5000/check_disk",
+        "ip": "172.31.0.32",
+        "username": "elm",
+        "password": "google123"
+      },
+      {
+        "apiUrl": "http://172.31.0.179:5000/check_disk",
+        "ip": "172.31.0.33",
+        "username": "elm",
+        "password": "google123"
+      },
+
+      {
+        "apiUrl": "http://172.31.0.179:5000/check_disk",
+        "ip": "172.31.6.55",
+        "username": "elm",
+        "password": "google123"
+      },
+      {
+        "apiUrl": "http://172.31.0.179:5000/check_disk",
+        "ip": "172.31.13.4",
+        "username": "elm",
+        "password": "google123"
+      }
+ 
+      
+  ]
+  
